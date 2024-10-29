@@ -14,10 +14,10 @@
             </button>
         </div>
         <div class="hidden lg:flex lg:gap-x-12">
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Accueil</a>
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900">A propos</a>
-            <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
+            <a href="#home" class="text-sm font-semibold leading-6 text-gray-900">Accueil</a>
+            <a href="#service" class="text-sm font-semibold leading-6 text-gray-900">Services</a>
+            <a href="#about" class="text-sm font-semibold leading-6 text-gray-900">A propos</a>
+            <a href="#contact" class="text-sm font-semibold leading-6 text-gray-900">Contact</a>
         </div>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
             <a href="#" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white hover:text-black hover:shadow-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black">Commencer</a>

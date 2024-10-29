@@ -24,8 +24,11 @@
     </audio>
 
     @yield('content')
+
 </div>
 
 </body>
+@component('components.footer')
+@endcomponent
 </html>
 
